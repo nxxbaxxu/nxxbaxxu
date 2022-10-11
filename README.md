@@ -9,7 +9,6 @@ My knowlage about programming languages:
 - CSS3
 - Javascript
 - Python
-- C
 - Kotlin
 
 My knowlage about computer operating systems:
